@@ -1,0 +1,12 @@
+.Person  {
+  /* display: flex; */
+  box-sizing: border-box;
+  border: 1px solid gray;
+  margin: 10px auto;
+  justify-content: center;
+  width: 60%;
+  height: 200px;
+  background-color: gainsboro;
+  border-radius: 5px;
+
+}
